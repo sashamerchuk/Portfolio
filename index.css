@@ -1,0 +1,97 @@
+main{
+    background-image:url("main_base.png");
+    margin-top:-15px;
+    min-height: 700px;
+}
+header{
+    background: rgb(40, 40, 40);
+    width:100%;
+    margin-top:-17px;
+    padding-bottom:10px;
+}
+.header a{
+    color:white;
+    padding-left:20px;
+    text-decoration:none;
+}
+.header .logo{
+    display:block;
+    margin:0 auto;
+
+}
+.header .menu {
+    position: absolute;
+    margin-top:-30px;
+    margin-left:-55px;
+}
+.header .blackBg{
+    background-color:rgb(40,40,40);
+    margin-right:-20px;
+    float:left;
+    width:70px;
+    height:300px;
+}
+.header .blackBg1{
+   background-color:rgb(40,40,40);
+    margin-left:0;
+    float:right;
+    width:70px;
+    height:260px;
+}
+main .h1{
+    display:inline-block;
+    background-color:black;
+    padding:20px;
+    margin-left:-20px;
+    color:white;
+}
+main .arrow{
+    margin-left:50px;
+    margin-right:-20px;
+    width:40px;
+    height:15px;
+}
+main .deer{
+    float:right;
+    width:45%;
+    height:40%;
+}
+main .lorem{
+    width:30%;
+    height:100px;
+    padding-top:50px;
+    font-weight:bold;
+    margin-left:20%;
+    margin-bottom:200px;
+}
+main .develop{
+    display:inline;
+    font-size:400%;
+    width:45%;
+    position:absolute;
+    margin-top:-25%;
+    margin-left:17%;
+}
+main .develop .hrDev{
+    width:17%;
+    height:2px;
+    float:left;
+    background-color:black;
+    margin-top:0;
+}
+main .develop .hrDev1{
+    width:33%;
+    height:2px;
+    float:left;
+    background-color:black;
+    margin-top:-5%;
+    margin-left:-3%;
+}
+main .lorem .hrDev0{
+    width:7%;
+    height:2px;
+    float:left;
+    background-color:black;
+    margin-top:9%;
+    margin-left:-10%;
+}
